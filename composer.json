@@ -1,9 +1,9 @@
 {
-    "name": "kayue/kayue-wordpress-bundle",
+    "name": "vadimspielmann/kayue-wordpress-bundle",
     "type": "symfony-bundle",
-    "description": "Support for authenticating WordPress users in Symfony2.",
+    "description": "Support for authenticating WordPress users in Symfony3.",
     "keywords":    [
-        "authentication", "firewall", "wordpress", "symfony", "symfony2", "security"
+        "authentication", "firewall", "wordpress", "symfony", "symfony3", "security"
     ],
     "homepage": "http://github.com/kayue/KayueWordpressBundle",
     "license": "MIT",
