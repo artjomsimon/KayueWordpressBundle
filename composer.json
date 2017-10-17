@@ -1,5 +1,5 @@
 {
-    "name": "vadimspielmann/kayue-wordpress-bundle",
+    "name": "artjomsimon/kayue-wordpress-bundle",
     "type": "symfony-bundle",
     "description": "Support for authenticating WordPress users in Symfony3.",
     "keywords":    [
